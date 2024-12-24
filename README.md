@@ -1,7 +1,7 @@
 # Ahoj 👋
 ### Vítej na mém GitHub profilu!
 
-<h2> 🚀 &nbsp;Nástroje a technologie, které používám</h2>
+<h2> 🚀 &nbsp;Nástroje a technologie které používám</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="45" height="45" />
