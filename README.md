@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 Hi, I'm a freelance developer and IT student from  Czech republic!
-Here you can see a few of my public projects, but majority of my projects are for contracts (so with closed source code).
+Here you can see a few of my public projects, but majority of my projects are for contracts (so with closed source code). For websites I mainly use Vite and SvelteKit. For other apps I mainly use Java or TypeScript.
 
 <h2>Current projects</h2>
 
